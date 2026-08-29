@@ -1,4 +1,4 @@
-# Tech, I'm Karan Thakur
+# 👋 Hi, I'm Karan Thakur
 
 **B.Tech CSE (AI & ML) | Data Science Enthusiast | Python Developer**
 
