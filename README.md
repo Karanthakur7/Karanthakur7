@@ -1,3 +1,29 @@
+# 🇮🇳 India Tech, I'm Karan Thakur
+
+**B.Tech CSE (AI & ML) | Data Science Enthusiast | Python Developer**
+
+🎓 **B.Tech CSE (AI & ML)** student at **Brainware University**
+
+💻 **Skills:** Python, Pandas, NumPy, SQL, Data Analysis, Data Cleaning, EDA, Git & GitHub
+
+🔭 **Currently working on:** Data Science and Data Analysis projects
+
+🌱 **Currently learning:** Data Science, DSA and Machine Learning
+
+💼 **Internship:** Data Science Intern @ IncodeVision
+
+📊 **Interested in:** Data Science, Data Analytics & Machine Learning
+
+🚀 **Projects:** Data Cleaning, EDA and real-world Data Science projects
+
+🐍 **Languages & Tools:** Python | Pandas | NumPy | SQL | Git | GitHub
+
+🎯 **Goal:** To build real-world projects and start a career in Data Science
+
+📍 **Based in:** Kolkata, India
+
+🤝 **Open to:** Internships, collaborations and entry-level opportunities
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karan__thakur_029) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-thakur-5b07b5305/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@KARAN THAKUR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karannapit7@gmail.com) 
