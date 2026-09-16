@@ -4,7 +4,7 @@
 
 🎓 **B.Tech CSE (AI & ML)** student at **Brainware University**
 
-💻 **Skills:** Python, Pandas, NumPy, SQL, Data Analysis, Data Cleaning, EDA, Git  GitHub
+💻 **Skills:** Python, Pandas, NumPy, SQL, Data Analysis, Data Cleaning, EDA, Git & GitHub
 
 🔭 **Currently working on:** Data Science and Data Analysis projects
 
